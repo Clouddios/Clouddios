@@ -1,11 +1,11 @@
 # Cláudio Vincius Camellin Almeida
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/claudio-vincius/)  
-📧 claudio132009@gmail.com    
+📧 claudio132009@gmail.com  
 
 ## Sobre mim
 
-Olá! Sou Cláudio Vincius, estudante de **Desenvolvimento de Software Multiplataforma** na **FATEC Votorantim** e **Analista de Suporte Nível 3** na **Farmaponte**. Tenho interesse por desenvolvimento web e IoT, com experiência prática em Python, JavaScript, SQL, e NoSQL. Sou proativo na resolução de problemas e estou sempre buscando aprender novas tecnologias.
+Olá! Sou Cláudio Vincius, estudante de **Desenvolvimento de Software Multiplataforma** na **FATEC Votorantim** e **Programador Jr I** na **Farmaponte**. Tenho interesse por desenvolvimento web e IoT, com experiência prática em Python, JavaScript, SQL, e NoSQL. Sou proativo na resolução de problemas e estou sempre buscando aprender novas tecnologias.
 
 ## Tecnologias e Ferramentas
 
@@ -27,8 +27,8 @@ Repositório com scripts de reconhecimento facial, usado para comparar e testar 
 
 ## Experiência
 
-- **Analista de Suporte Nível 3** na **Farmaponte** (desde Dezembro 2023)  
-  Trabalho com análise de tickets de suporte de várias áreas da empresa, utilizando SQL e OCOMON para a resolução ou encaminhamento de problemas ao time de desenvolvimento.
+- **Programador Jr I** na **Farmaponte** (desde Dezembro 2023)  
+  Desenvolvimento e manutenção de sistemas internos da empresa, colaborando com a equipe de desenvolvimento para implementar novas funcionalidades e melhorar o desempenho dos sistemas.
 
 - **Monitor de Algoritmos de Reconhecimento Facial** na **FATEC Votorantim**  
   Revisão e teste de algoritmos de reconhecimento facial, gerando relatórios de comparação de desempenho.
@@ -36,4 +36,4 @@ Repositório com scripts de reconhecimento facial, usado para comparar e testar 
 ## Contato
 
 Sinta-se à vontade para entrar em contato para discutir ideias de projetos ou oportunidades!  
-✉️ claudio132009@gmail.com | 📞 +55 15 99677-3051
+✉️ claudio132009@gmail.com
