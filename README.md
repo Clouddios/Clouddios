@@ -1,6 +1,6 @@
 # Cláudio Vincius Camellin Almeida
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/claudio-vincius/)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/claudio-vinicius-camellin-almeida/)  
 📧 claudio132009@gmail.com  
 
 ## Sobre mim
