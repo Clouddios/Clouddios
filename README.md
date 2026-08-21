@@ -1,39 +1,88 @@
-# Cláudio Vincius Camellin Almeida
+<h1 align="center">Olá, eu sou o Claudio 👋</h1>
+<h3 align="center">Analista de Dados & TI | SQL, Excel, BI e Automação</h3>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/claudio-vinicius-camellin-almeida/)  
-📧 claudio132009@gmail.com  
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=2F80ED&center=true&vCenter=true&width=550&lines=Analista+de+Dados+e+TI;SQL+%7C+Power+BI+%7C+Python+%7C+PHP;Transformando+dados+em+decis%C3%B5es" alt="Typing SVG" />
+</p>
 
-## Sobre mim
+<p align="center">
+  <a href="https://linkedin.com/in/claudiovinicius-camellin-almeida" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:claudio132009@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <img src="https://img.shields.io/badge/Araçoiaba%20da%20Serra%20--%20SP-4B4B4B?style=for-the-badge&logo=googlemaps&logoColor=white" />
+</p>
 
-Olá! Sou Cláudio Vincius, estudante de **Desenvolvimento de Software Multiplataforma** na **FATEC Votorantim** e **Programador Jr I** na **Farmaponte**. Tenho interesse por desenvolvimento web e IoT, com experiência prática em Python, JavaScript, SQL, e NoSQL. Sou proativo na resolução de problemas e estou sempre buscando aprender novas tecnologias.
+---
 
-## Tecnologias e Ferramentas
+### 🧭 Sobre mim
 
-- **Linguagens de Programação**: Python, JavaScript (Node.js, React, Angular), SQL, NoSQL
-- **Ferramentas**: Power BI, Git, Docker, E-Ink, OCOMON, Yup
-- **Banco de Dados**: MySQL, MongoDB
-- **Outras tecnologias**: nRF52840, Reconhecimento Facial, API Rest
+Profissional de tecnologia com mais de **3 anos de experiência**, unindo **análise de dados** e **suporte de TI**. Tenho domínio forte em **SQL** (consultas complexas, procedures e otimização), **Excel avançado** e bancos de dados relacionais, atuando na camada de dados que alimenta relatórios gerenciais e dashboards de BI.
 
-## Projetos
+Já automatizei processos com **Python**, integrei sistemas via **APIs REST**, atuei com **ERP** e dei suporte técnico a usuários e sistemas internos — incluindo redes e infraestrutura básica.
 
-### [Fatec Orders]
-Sistema de pedidos desenvolvido para a disciplina de Desenvolvimento de Software Multiplataforma. Implementa funcionalidades como listagem, edição e validação de pedidos, com interface em React e validações personalizadas usando Yup.
+Formado em **Desenvolvimento de Software Multiplataforma** pela Fatec Votorantim, tenho perfil analítico, organizado e proativo, sempre buscando melhoria contínua de processos.
 
-### IoT com nRF52840
-Desenvolvimento de um dispositivo IoT usando o microcontrolador nRF52840, focado em atualizações de firmware sem fio, alimentação por energia solar e tela de E-Ink para exibir dados.
+---
 
-### [Facial Recognition Testing]
-Repositório com scripts de reconhecimento facial, usado para comparar e testar diferentes algoritmos e relatórios de desempenho como parte de um projeto acadêmico.
+### 🛠️ Stack & Ferramentas
 
-## Experiência
+**Dados & BI**
+<p>
+  <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black" />
+  <img src="https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white" />
+</p>
 
-- **Programador Jr I** na **Farmaponte** (desde Dezembro 2023)  
-  Desenvolvimento e manutenção de sistemas internos da empresa, colaborando com a equipe de desenvolvimento para implementar novas funcionalidades e melhorar o desempenho dos sistemas.
+**Desenvolvimento & Automação**
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" />
+  <img src="https://img.shields.io/badge/REST%20APIs-005571?style=flat-square&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5%2FCSS3-E34F26?style=flat-square&logo=html5&logoColor=white" />
+</p>
 
-- **Monitor de Algoritmos de Reconhecimento Facial** na **FATEC Votorantim**  
-  Revisão e teste de algoritmos de reconhecimento facial, gerando relatórios de comparação de desempenho.
+**Infra & Suporte**
+<p>
+  <img src="https://img.shields.io/badge/Cisco%20Networking-1BA0D7?style=flat-square&logo=cisco&logoColor=white" />
+  <img src="https://img.shields.io/badge/ERP%20(Procfit)-4B4B4B?style=flat-square" />
+  <img src="https://img.shields.io/badge/Ocomon-4B4B4B?style=flat-square" />
+</p>
 
-## Contato
+---
 
-Sinta-se à vontade para entrar em contato para discutir ideias de projetos ou oportunidades!  
-✉️ claudio132009@gmail.com
+### 💼 Experiência recente
+
+- **Analista de Dados** — VIDI *(out/2025 – jul/2026)*
+  Consultas SQL complexas e procedures, ETL diário para dashboards de BI, automação com Python.
+
+- **Programador de Software** — Farma Ponte *(set/2024 – out/2025)*
+  Sistemas internos em PHP e SQL Server, integração de APIs REST, ERP Procfit. Reduzi um relatório fiscal semanal de ~2h para 15min.
+
+- **Analista de Suporte de TI (N3)** — Farma Ponte *(dez/2023 – set/2024)*
+  Resolução de incidentes N3, diagnóstico com SQL, gestão de chamados.
+
+---
+
+### 🎓 Formação & Certificações
+
+- Desenvolvimento de Software Multiplataforma — Fatec Votorantim (2022–2025)
+- Microsoft SQL Server 2022: Consultas Avançadas
+- Networking Essentials — Cisco
+- HTML5 e CSS3 (módulos 1 e 4) — Alura
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Clouddios&show_icons=true&theme=default&hide_title=false" alt="GitHub Stats" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Clouddios" alt="GitHub Streak" height="165"/>
+</p>
+
+---
+
+<p align="center">📫 Vamos conversar? <b>claudio132009@gmail.com</b> · <a href="https://linkedin.com/in/claudiovinicius-camellin-almeida">LinkedIn</a></p>
